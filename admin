@@ -33,6 +33,7 @@ APPS=(
 google-chrome
 zoom
 vlc
+anydesk
 microsoft-teams
 )
 
